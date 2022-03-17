@@ -11,7 +11,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        print("Hello World!")
 //        if manager.isAccelerometerAvailable {
 //            manager.accelerometerUpdateInterval = 0.1
 //            manager.startAccelerometerUpdates(to: .main) { [weak self] data, error in
